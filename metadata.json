@@ -1,0 +1,5 @@
+{
+  "name": "Mani Foods Ordering",
+  "description": "A web application for ordering delicious food from Mani Foods, inspired by their daily and special menus. Users can browse dishes, select sizes, add items to their cart, and place an order.",
+  "requestFramePermissions": []
+}

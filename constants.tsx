@@ -7,7 +7,7 @@ export const DAILY_MENU: MenuItem[] = [
     id: 'dm01',
     name: 'Dal Mash',
     description: 'A rich and creamy lentil dish made with urad dal, slow-cooked with aromatic spices, fresh herbs, and garnished with green chilies and ginger julienne.',
-    image: './images/dal-mash.jpg',
+    image: '/images/dal-mash.jpg',
     sizes: [
       { name: 'Small', price: 200 },
       { name: 'Full', price: 400 },
@@ -17,7 +17,7 @@ export const DAILY_MENU: MenuItem[] = [
     id: 'dm02',
     name: 'Chicken Qorma',
     description: 'Tender chicken pieces simmered in a rich, creamy tomato and yogurt-based gravy with aromatic spices, garnished with fresh cilantro. A classic Mughlai delicacy.',
-    image: './images/chicken-qorma.jpg',
+    image: '/images/chicken-qorma.jpg',
     sizes: [
       { name: 'Small', price: 350 },
       { name: 'Full', price: 600 },
@@ -27,7 +27,7 @@ export const DAILY_MENU: MenuItem[] = [
     id: 'dm03',
     name: 'Chicken Haleem',
     description: 'A slow-cooked traditional savory porridge of wheat, barley, lentils, and tender chicken pieces, garnished with fresh herbs, fried onions, and green chilies. Rich in flavor and texture.',
-    image: './images/chicken-haleem.jpg',
+    image: '/images/chicken-haleem.jpg',
     sizes: [
       { name: 'Small', price: 300 },
       { name: 'Full', price: 550 },
@@ -57,7 +57,7 @@ export const SPECIAL_MENU: MenuItem[] = [
     id: 'sm02',
     name: 'Qeema Muttor Aloo',
     description: 'Aromatic spiced minced mutton cooked with tender potatoes and fresh green peas in a rich, thick gravy with traditional herbs and spices.',
-    image: './images/qeema-mutton-aloo.jpg',
+    image: '/images/qeema-mutton-aloo.jpg',
     price: 1500,
   },
   {
@@ -71,7 +71,7 @@ export const SPECIAL_MENU: MenuItem[] = [
     id: 'sm04',
     name: 'Palak Chicken',
     description: 'Tender chicken pieces slow-cooked in a rich, creamy spinach gravy infused with aromatic spices and fresh herbs. A classic saag dish with authentic flavors.',
-    image: './images/palak-chicken.jpg',
+    image: '/images/palak-chicken.jpg',
     price: 1500,
   },
   {
